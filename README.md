@@ -1,7 +1,6 @@
 # Breakdown of sporophytic self-incompatibility: Diploids versus Tetraploids
 
-This repository contains the codes used for the simulation of the paper names "Breakdown of sporophytic self-incompatibility: Diploids versus Tetraploids".
-
+This repository contains the codes in Julia used for the simulation of the paper names "Breakdown of sporophytic self-incompatibility: Diploids versus Tetraploids".
 The different codes are organized into folders and each of them correspond to a specific version of the model (summarized in Table 2 in the paper). More specifically, the different codes represent different:
 - scenarios: either SI alleles are assumed to be codominant, or they are structured in four dominance classes.
 - ploidy levels: the population is either fully diploid or fully tetraploid throughout the simulation.
